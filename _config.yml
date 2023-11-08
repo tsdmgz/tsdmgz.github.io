@@ -38,6 +38,7 @@ header_pages:
 
 minima:
   skin: auto
+  date_format: "%Y-%m-%d %a"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
