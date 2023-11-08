@@ -36,6 +36,8 @@ header_pages:
   - what-i-do.md
   - about.markdown
 
+timezone: "Asia/Manila"
+
 minima:
   skin: auto
   date_format: "%Y-%m-%d %a"
