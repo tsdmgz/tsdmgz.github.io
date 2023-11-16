@@ -14,7 +14,7 @@ a couple of characters. It's nowhere near usable in business contexts but I'm
 working on that.
 
 In either case, I'm in the job market right now and I want to hear about your
-DevOps or Site Reliability Engineer roles in Manila, Philppines, or anywhere in
+DevOps or Site Reliability Engineer roles in Manila, Philippines, or anywhere in
 Taiwan.
 
 This site was built with Jekyll on GitHub Pages. Deploys are made using GitHub's
