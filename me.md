@@ -42,7 +42,7 @@ some help during production work.
 
 Automation | Puppet
 CI/CD | Jenkins
-Cloud | GCP, Azure, Oracle Cloud, DigitalOcean
+Cloud | AWS, GCP, Azure, Oracle Cloud, DigitalOcean
 Containerization and orchestration | LXC, Kubernetes, Mesos
 Logging | Splunk (user), Graylog (admin)
 Monitoring | Nagios, Zabbix, nTop
@@ -64,7 +64,7 @@ Mandarin | Beginner | Novice   | Novice  |
 
 ## IT & Security Engineer
 ### OpsWerks
-2022-06 until 2023-08
+From 2022-06 until 2023-08
 
 First party company helpdesk, SOC, NOC, and on-call support with a team for
 \>100 people and devices in a macOS and Linux environment.
@@ -89,7 +89,7 @@ First party company helpdesk, SOC, NOC, and on-call support with a team for
 
 ## Platform Engineer
 ### OpsWerks
-2018-05 until 2022-06
+From 2018-05 until 2022-06
 
 24x7 L1 and L2 (plus a little bit more) support for different interconnected
 services comprised of more than a hundred thousand servers around the world with
@@ -112,7 +112,7 @@ a multinational Silicon Valley company's private cloud.
 
 ## System Administrator
 ### Fo Guang Shan Mabuhay Temple
-2018-05 until 2022-06
+From 2017-04 until 2017-09
 
 Volunteer system administrator. Triaged user, computer, and network issues.
 Built and implemented tooling to streamline repetitive tasks.
