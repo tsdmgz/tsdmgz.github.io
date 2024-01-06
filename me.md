@@ -87,7 +87,7 @@ First party company helpdesk, SOC, NOC, and on-call support with a team for
   deprovisioning during offboarding.
 * Upskilled and mentored a junior into this role.
 
-## Platform Engineer
+## Platform Engineer (DevOps Support)
 ### OpsWerks
 From 2018-05 until 2022-06
 
