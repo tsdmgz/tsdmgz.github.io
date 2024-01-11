@@ -23,6 +23,7 @@ environments.
 I am comfortable in using these during daily operations
 
 Automation | Ansible, Shell, Python
+Cloud | AWS
 Communications | Google Workspace (admin), Slack (admin),  Zoom (admin)
 Containerization and orchestration | Docker, Podman
 Device management | Apple Business Manager, Mosyle MDM
@@ -42,7 +43,7 @@ some help during production work.
 
 Automation | Puppet
 CI/CD | Jenkins
-Cloud | AWS, GCP, Azure, Oracle Cloud, DigitalOcean
+Cloud | GCP, Azure, Oracle Cloud, DigitalOcean
 Containerization and orchestration | LXC, Kubernetes, Mesos
 Logging | Splunk (user), Graylog (admin)
 Monitoring | Nagios, Zabbix, nTop
