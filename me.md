@@ -118,4 +118,10 @@ From 2017-04 until 2017-09
 Volunteer system administrator. Triaged user, computer, and network issues.
 Built and implemented tooling to streamline repetitive tasks.
 
+# Education
+
+## Ateneo de Manila University
+AB Chinese Studies - Social Sciences Track\
+Batch 2017
+
 ---
