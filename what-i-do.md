@@ -18,7 +18,8 @@ I've also administered mail and comms suites for my coworkers, and implemented
 policies that keep peoples' time and capabilities in mind.
 
 My study queue has Kubernetes, more Ansible, and some bits of networking like
-BGP. It's not cutting edge but I'd like to refine my foundations.
+BGP. It's not cutting edge but I'd like to refine my foundations. [Maybe take a
+look what I've been working on?](/)
 
 (This one is a work in progress, admittedly it's a little hard to write about
 yourself.)
