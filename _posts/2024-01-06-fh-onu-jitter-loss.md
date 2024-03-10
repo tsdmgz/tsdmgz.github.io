@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fiberhome modem jitter and packet loss"
+image: "/files/grafana-jitter-1.png"
 ---
 
 For a long time severe jitter and occasional packet loss plagued my internet
