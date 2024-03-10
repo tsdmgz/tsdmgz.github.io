@@ -11,6 +11,8 @@ failing connection liveliness tests.
 
 I couldn't identify what was causing it for a long time.
 
+<!--more-->
+
 <figure>
 <img src="/files/grafana-jitter-1.png" alt="Jitter as shown by the spikes in
 this latency graph"/>
@@ -148,6 +150,12 @@ Good luck to us in getting this escalated to tier 2 technical support.
 
 I'll probably come back once I obtain that GPON-on-a-stick and replace that
 FiberHome ONU.
+
+---
+
+Part two: [Fixing modem jitter for good](/2024/03/10/fh-onu-jitter-packet-loss-pt2.html)
+
+# Footnotes
 
 [^dns-command]: `cut -f3 -d, majestic_million.csv|head -n3500|xargs -P 10 -n1 dig @<unbound> +short +time=7 +tries=2`
 [^dns-tcp-perf]: Significant performance loss is seen with TCP-only upstream.

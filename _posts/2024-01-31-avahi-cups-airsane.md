@@ -9,6 +9,8 @@ server for a USB-only Epson L360. Until the PoE hat somehow broke and fried the
 Pi with it. A spare mini PC was installed as a replacement and thought of a
 challenge: can I run AirPrint and AirScan services using only containers?
 
+<!--more-->
+
 # Motivation
 
 I wanted to stay consistent with openSUSE MicroOS's design goal of keeping an
