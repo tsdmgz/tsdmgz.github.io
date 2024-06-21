@@ -4,6 +4,8 @@ title: Finally, my first (working) cluster!
 image: "/files/rpi-cluster.jpg"
 ---
 
+![](/files/rpi-cluster.jpg)
+
 After four (or more) years of trying and failing, I finally have a fully working
 plain Kubernetes system running on my Raspberry Pi cluster with `kubeadm`.
 Persistent storage hasn't been set up yet but `LoadBalancer` services are
