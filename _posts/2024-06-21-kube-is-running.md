@@ -9,6 +9,8 @@ plain Kubernetes system running on my Raspberry Pi cluster with `kubeadm`.
 Persistent storage hasn't been set up yet but `LoadBalancer` services are
 available with Cilium and backed with BGP, talking to an OPNsense router.
 
+<!--more-->
+
 ```
 ~% kubectl get pods -A
 NAMESPACE     NAME                               READY   STATUS    RESTARTS   AGE
