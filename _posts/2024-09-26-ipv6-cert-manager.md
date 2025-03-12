@@ -18,7 +18,7 @@ Specifically in this configuration:
 
 <!--more-->
 
-Before starting on anythihg, know the certificate's lifecycle and step through
+Before starting on anything, know the certificate's lifecycle and step through
 the process of a request. Cert-manager's troubleshooting documentation is a
 great starting point[^3].
 
