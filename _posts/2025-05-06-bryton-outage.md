@@ -17,11 +17,11 @@ I'm here to talk about some things reviews fail to mention:
 * Its reliance on ~~cloud~~ online services
 
 Why? Because Bryton is experiencing a complete outage of their online services
-as of this writing and **I cannot send a prepared route to the bike computer
-even with a prepared route file on hand as a consequence.** The route needs to
-be uploaded to Bryton Active through their app, which is completely unusable
-right now because it is down, be downloaded back to the phone, _and then_ can be
-sent to the cyclocomputer.
+as of this writing and **I cannot send a route to the bike computer even with a
+prepared route file on hand as a consequence.** The route needs to be uploaded
+to Bryton Active through their app, which is completely unusable right now
+because it is down, be downloaded back to the phone, _and then_ can be sent to
+the cyclocomputer.
 
 I have half a brick and I can't even keep both pieces. Unbelievable.
 
