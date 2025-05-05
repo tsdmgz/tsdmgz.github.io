@@ -25,6 +25,8 @@ sent to the cyclocomputer.
 
 I have half a brick and I can't even keep both pieces. Unbelievable.
 
+<!--more-->
+
 # Maps
 
 Use of OpenStreetMap data is billed as one selling point of the cyclocomputer.
