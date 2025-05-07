@@ -3,6 +3,9 @@ layout: post
 title: Bryton Cyclocomputers and The Cloud
 ---
 
+Update: Services have recovered as of 2025-05-07 02:30 or so. Point still
+stands.
+
 # Bryton S510
 
 I have a [Bryton S510](https://www.brytonsport.com.tw/en/products/rider-s510)
